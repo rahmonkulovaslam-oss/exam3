@@ -1,0 +1,21 @@
+header {
+    max-width: 1300px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+padding: 50px;
+}
+
+.heder {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hed {
+    display: flex;
+    gap: 30px;
+}
+
+.hed2 {
+    display: flex;
+    gap: 30px;
+}
