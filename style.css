@@ -4,6 +4,9 @@ header {
 
     padding: 50px;
 }
+body{
+    font-family: 'Roboto';
+}
 
 .heder {
     display: flex;
@@ -235,11 +238,43 @@ img2 {
     border-radius: 20px;
     box-shadow: 1px 1px 3px rgb(152, 151, 151);
     padding: 40px 40px;
-    margin-left: 350px;
+    margin-left: 330px;
     margin-top: -200px;
     position: relative;
     background-color: white;
 }
 .wid{
     width: 500px;
+}
+.wector{
+    max-width: 1300px;
+    margin: auto;
+}
+.banka{
+    display: flex;
+    justify-content: space-between;
+}
+.art{
+    width: 37%;
+    height: 280px;
+    border: 1px solid rgb(186, 184, 184);
+    box-shadow: 1px 1px 3px rgb(158, 156, 156);
+    background-color: white;
+    padding: 30px 30px;
+    border-radius: 10px;
+    margin-top: -100px;
+    position: relative;
+}
+.art2{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding-top: 20px;
+}
+.az{
+    display: flex;
+    gap: 160px;
+}
+.bft{
+    margin-top: 120px;
 }
