@@ -4,14 +4,15 @@ header {
 
     padding: 50px;
 }
-body{
+
+body {
     font-family: 'Roboto';
 }
 
 .heder {
     display: flex;
     justify-content: space-between;
-    font-weight: 1000;
+    font-weight: 700;
 }
 
 .hed {
@@ -65,7 +66,7 @@ body{
 
 .se2 {
     display: flex;
-    justify-content: space-around;
+    gap: 100px;
     padding-top: 100px;
     max-width: 1300px;
     margin: auto;
@@ -117,7 +118,7 @@ body{
 
 .img {
 
-    width: 750px;
+    /* width: 750px; */
     padding-top: 300px;
     align-items: ;
     padding: 50px;
@@ -127,11 +128,11 @@ body{
 }
 
 .img1 {
-    height: 750px;
+    /* height: 750px; */
 }
 
 img2 {
-    width: 700px;
+    /* width: 700px; */
 }
 
 .xx {
@@ -158,58 +159,74 @@ img2 {
 
 .fv {
     display: flex;
-    gap: 20px;align-items: center;
+    gap: 20px;
+    align-items: center;
 }
-.tt{
+
+.tt {
     display: flex;
     justify-content: space-around;
 }
-.k1{
+
+.k1 {
     font-weight: 1000;
 }
-.section4{
+
+.section4 {
     background-color: #FFD4A4;
     width: 100%;
     height: 900px;
 }
-.how{
+
+.how {
     display: flex;
     justify-content: space-between;
     margin-top: 400px;
 }
-.section5{
+.gg{
     max-width: 1300px;
     margin: auto;
 }
-.bor{
+
+.section5 {
+    max-width: 1300px;
+    margin: auto;
+}
+
+.bor {
     border-bottom: 2px solid #DAD1CA;
     margin-top: 100px;
 }
-.sectori8{
+
+.sectori8 {
     max-width: 1300px;
     margin: auto;
     padding: 100px;
 
 }
-.bnt{
+
+.bnt {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.food{
+
+.food {
     width: 28%;
-       height: 430px;
-       border: 1px solid rgb(199, 194, 194);
-       border-radius: 20px;
-       box-shadow: 1px 1px 3px rgb(165, 164, 164);
-       text-align: center;
-       
+    height: 430px;
+    border: 1px solid rgb(199, 194, 194);
+    border-radius: 20px;
+    box-shadow: 1px 1px 3px rgb(165, 164, 164);
+    text-align: center;
+
 }
-.foot{
+
+.foot {
     display: flex;
     justify-content: space-between;
 }
-.bg{
+
+.bg {
     width: 170px;
     height: 170px;
     background-color: #FFF3E0;
@@ -218,12 +235,14 @@ img2 {
     margin-top: 30px;
     /* text-align: c; */
 }
-.sector10{
+
+.sector10 {
     background-color: #FEF9F2;
     width: 100%;
     height: 1100px;
 }
-.aq{
+
+.aq {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -231,30 +250,39 @@ img2 {
     margin: auto;
     padding-top: 200px;
 }
-.bow{
+
+.bow {
     border: 1px solid rgb(184, 184, 184);
     width: 21%;
     height: 250px;
     border-radius: 20px;
     box-shadow: 1px 1px 3px rgb(152, 151, 151);
     padding: 40px 40px;
-    margin-left: 330px;
+    margin-left: 100px;
     margin-top: -200px;
     position: relative;
+    left: -190px;
+    bottom: 300px;
     background-color: white;
-}
-.wid{
-    width: 500px;
-}
-.wector{
     max-width: 1300px;
     margin: auto;
 }
-.banka{
+
+.wid {
+    width: 500px;
+}
+
+.wector {
+    max-width: 1300px;
+    margin: auto;
+}
+
+.banka {
     display: flex;
     justify-content: space-between;
 }
-.art{
+
+.art {
     width: 37%;
     height: 280px;
     border: 1px solid rgb(186, 184, 184);
@@ -265,16 +293,87 @@ img2 {
     margin-top: -100px;
     position: relative;
 }
-.art2{
+
+.art2 {
     display: flex;
     gap: 20px;
     align-items: center;
     padding-top: 20px;
 }
-.az{
+
+.az {
     display: flex;
     gap: 160px;
 }
-.bft{
+
+.bft {
     margin-top: 120px;
+}
+
+.oxir {
+    display: flex;
+    gap: 20px;
+    width: 10%;
+
+}
+
+.zard {
+    width: 25%;
+    height: 320px;
+
+    border: 1px solid rgb(172, 169, 169);
+    box-shadow: 1px 1px 3px rgb(156, 155, 155);
+    border-radius: 10px;
+    background-color: #FF9C08;
+    padding: 20px 30px;
+
+}
+
+.bcv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.vor {
+    max-width: 1300px;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.be {
+    border-bottom: 3px solid #F0ECE8;
+}
+
+.mm {
+    display: flex;
+    gap: 10px;
+}
+
+.t1 {
+    width: 15%;
+    height: 50px;
+    background-color: #090909;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px black;
+    margin-top: -50px;
+    
+}
+
+.d1 {
+    display: flex;
+    gap: 10px;
+    margin-left: 1000px;
+
+}
+
+.siyo {
+   
+    justify-content:space-between;
+}
+.glavni{
+    padding: 30px;
+    margin-top: 100px;
+    background-color: #FEF9F2;
+    width: 100%;
+    height: 700px;
 }
