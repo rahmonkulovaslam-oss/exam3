@@ -1,4 +1,3 @@
-
 header {
     max-width: 1300px;
     margin: auto;
@@ -99,38 +98,69 @@ header {
     display: flex;
     gap: 20px;
 }
-.dd{
+
+.dd {
     display: flex;
-    
+
     align-items: center;
     margin-top: 100px;
     gap: 50px;
 }
-.zz{
-    display:flex;
+
+.zz {
+    display: flex;
     justify-content: space-evenly;
 }
-.img{
-   
+
+.img {
+
     width: 750px;
     padding-top: 300px;
     align-items: ;
-    padding:    50px;
+    padding: 50px;
     margin-left: -50px;
 
 
 }
-.img1{
+
+.img1 {
     height: 750px;
 }
-img2{
+
+img2 {
     width: 700px;
 }
-.xx{
+
+.xx {
     margin-left: 30px;
     margin-top: -120px;
 }
-.v1{
+
+.v1 {
     font-size: 25px;
-    
+
+}
+
+.sectori3 {
+    max-width: 1300px;
+    margin: auto;
+    padding: 100px;
+}
+
+.r {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fv {
+    display: flex;
+    gap: 20px;align-items: center;
+}
+.tt{
+    display: flex;
+    justify-content: space-around;
+}
+.k1{
+    font-weight: 1000;
 }
