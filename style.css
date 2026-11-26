@@ -164,3 +164,21 @@ img2 {
 .k1{
     font-weight: 1000;
 }
+.section4{
+    background-color: #FFD4A4;
+    width: 100%;
+    height: 900px;
+}
+.how{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 400px;
+}
+.section5{
+    max-width: 1300px;
+    margin: auto;
+}
+.bor{
+    border-bottom: 2px solid #DAD1CA;
+    margin-top: 100px;
+}
