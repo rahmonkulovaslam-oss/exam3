@@ -1,21 +1,136 @@
+
 header {
     max-width: 1300px;
     margin: auto;
-    font-family: Arial, Helvetica, sans-serif;
-padding: 50px;
+
+    padding: 50px;
 }
 
 .heder {
     display: flex;
     justify-content: space-between;
+    font-weight: 1000;
 }
 
 .hed {
+
     display: flex;
     gap: 30px;
 }
+
 
 .hed2 {
     display: flex;
     gap: 30px;
+}
+
+.c {
+    margin-left: -20px;
+    border-bottom: 2px solid #f0ece8;
+}
+
+.sec {
+    max-width: 1300px;
+    margin: auto;
+    padding: 10px;
+}
+
+.bot {
+    border-bottom: 5px solid #ffc908;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.sector {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.africa {
+    height: 800px;
+
+}
+
+.sector2 {
+    /* max-width: 1300px; */
+    margin: auto;
+    background-color: #FEF9F2;
+    height: 2100px;
+
+}
+
+.se2 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    max-width: 1300px;
+    margin: auto;
+}
+
+.wid {
+    font-weight: 800;
+}
+
+.lef {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    margin: auto;
+    padding: 200px 100px;
+    max-width: 1300px;
+
+}
+
+.cc {
+    font-weight: 1000;
+    font-size: 50px;
+}
+
+.a1 {
+    font-size: 20px;
+
+}
+
+.play {
+    display: flex;
+    gap: 20px;
+}
+.dd{
+    display: flex;
+    
+    align-items: center;
+    margin-top: 100px;
+    gap: 50px;
+}
+.zz{
+    display:flex;
+    justify-content: space-evenly;
+}
+.img{
+   
+    width: 750px;
+    padding-top: 300px;
+    align-items: ;
+    padding:    50px;
+    margin-left: -50px;
+
+
+}
+.img1{
+    height: 750px;
+}
+img2{
+    width: 700px;
+}
+.xx{
+    margin-left: 30px;
+    margin-top: -120px;
+}
+.v1{
+    font-size: 25px;
+    
 }
